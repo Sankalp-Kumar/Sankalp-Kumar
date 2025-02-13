@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently pursuing M.Tech in Data Science and Machine Learning.
-- 🌱 I’m currently looking for internships.
+- 🔭 I have purused M.tech in Data Science and Machine Learning, also have a total of 6 years of experience in the same field.
+- 🌱 I’m currently looking for job opportunities in the same domain.
 - 👯 I’m looking to collaborate on Data Science, Machine learning and Deep learning projects.
-- 📫 How to reach me: sankalpkumar96@gmail.com 
+- 📫 How to reach me: sankalpkumar96@gmail.com, sankalpkumar.redefinedcorp@gmail.com
 
 
